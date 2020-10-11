@@ -4,8 +4,9 @@ Classification of forex candlestick patterns with machine learning.
 For the inital development I will only be considering the GBP/USD currency pair.
 
 # Todos
-* Collect historical data of the forex currency pair.
-* encode 1d time-series data into a candlestick chart.
+* [DONE] - Collect historical data of the forex currency pair.
+* [DONE] - display data in candle stick chart
+* encode 1d time-series data into a matrix.
 * segment data for training/testing.
 * train CNN.
 
@@ -14,4 +15,5 @@ For the inital development I will only be considering the GBP/USD currency pair.
 * ipython
 * pandas
 * numpy
-* matplotlib
+* pyplot
+* pandas-datareader
