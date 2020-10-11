@@ -15,5 +15,7 @@ For the inital development I will only be considering the GBP/USD currency pair.
 * ipython
 * pandas
 * numpy
-* pyplot
+* pyplot [depreceated]
+* matplotlib
 * pandas-datareader
+
